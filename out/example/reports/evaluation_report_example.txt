@@ -1,0 +1,73 @@
+# example
+Scores for queries provided by file: example
+
+
+
+
+# Query Index: 01
+
+
+## Parameter Index: 01
+
+### Version Index: 01
+Indices:       	(Q,P,V) = (1,1,1)
+Parameters:
+
+    Crash!
+
+    No .csv file was generated for this query with these parameters.
+
+    Please check the execution report for more runtime information.
+    
+
+
+
+# Query Index: 02
+
+
+## Parameter Index: 01
+
+### Version Index: 01
+Indices:       	(Q,P,V) = (2,1,1)
+Parameters:
+	datum_x = 1980-01-16
+
+    Crash!
+
+    No .csv file was generated for this query with these parameters.
+
+    Please check the execution report for more runtime information.
+    
+
+
+## Parameter Index: 02
+
+### Version Index: 01
+Indices:       	(Q,P,V) = (2,2,1)
+Parameters:
+	datum_x = 1985-01-16
+
+    Crash!
+
+    No .csv file was generated for this query with these parameters.
+
+    Please check the execution report for more runtime information.
+    
+
+
+
+# Query Index: 03
+
+
+## Parameter Index: 01
+
+### Version Index: 01
+Indices:       	(Q,P,V) = (3,1,1)
+Parameters:
+
+    Crash!
+
+    No .csv file was generated for this query with these parameters.
+
+    Please check the execution report for more runtime information.
+    

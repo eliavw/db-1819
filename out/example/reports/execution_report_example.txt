@@ -1,0 +1,129 @@
+
+            Loading method: query_01 from module example
+            
+
+            Loading method: query_02 from module example
+            
+
+            Loading method: query_03 from module example
+            
+
+            Loading method: query_04 from module example
+            
+
+            An exception occurred in method gen_all_q_method:
+                module 'example' has no attribute 'query_04'
+
+            
+
+            Loading method: query_05 from module example
+            
+
+            An exception occurred in method gen_all_q_method:
+                module 'example' has no attribute 'query_05'
+
+            
+
+            Loading method: query_06 from module example
+            
+
+            An exception occurred in method gen_all_q_method:
+                module 'example' has no attribute 'query_06'
+
+            
+
+            Loading method: query_07 from module example
+            
+
+            An exception occurred in method gen_all_q_method:
+                module 'example' has no attribute 'query_07'
+
+            
+
+            Loading method: query_08 from module example
+            
+
+            An exception occurred in method gen_all_q_method:
+                module 'example' has no attribute 'query_08'
+
+            
+
+            Loading method: query_09 from module example
+            
+
+            An exception occurred in method gen_all_q_method:
+                module 'example' has no attribute 'query_09'
+
+            
+
+            Loading method: query_10 from module example
+            
+
+            An exception occurred in method gen_all_q_method:
+                module 'example' has no attribute 'query_10'
+
+            
+Running query: <function query_01 at 0x7fe6cde558c8>
+with column names: ['tname', 'year', 'HomeRun']
+and parameters: {}
+
+Exception occurred in method <function query_01 at 0x7fe6cde558c8>:
+'NoneType' object has no attribute 'to_csv'
+
+Running query: <function query_02 at 0x7fe6cde559d8>
+with column names: ['nameFirst', 'nameLast', 'birthYear', 'birthMonth', 'birthDay']
+and parameters: {'datum_x': '1980-01-16'}
+
+Exception occurred in method <function query_02 at 0x7fe6cde559d8>:
+query_02() got an unexpected keyword argument 'datum_x'
+
+Running query: <function query_02 at 0x7fe6cde559d8>
+with column names: ['nameFirst', 'nameLast', 'birthYear', 'birthMonth', 'birthDay']
+and parameters: {'datum_x': '1985-01-16'}
+
+Exception occurred in method <function query_02 at 0x7fe6cde559d8>:
+query_02() got an unexpected keyword argument 'datum_x'
+
+Running query: <function query_03 at 0x7fe6cde552f0>
+with column names: ['nameFirst', 'nameLast', 'tname']
+and parameters: {}
+
+Exception occurred in method <function query_03 at 0x7fe6cde552f0>:
+'NoneType' object has no attribute 'to_csv'
+
+
+                An exception occurred in method run_all_queries:
+                    'query_04'
+                
+                
+
+                An exception occurred in method run_all_queries:
+                    'query_05'
+                
+                
+
+                An exception occurred in method run_all_queries:
+                    'query_06'
+                
+                
+
+                An exception occurred in method run_all_queries:
+                    'query_07'
+                
+                
+
+                An exception occurred in method run_all_queries:
+                    'query_08'
+                
+                
+
+                An exception occurred in method run_all_queries:
+                    'query_09'
+                
+                
+
+                An exception occurred in method run_all_queries:
+                    'query_10'
+                
+                
+
