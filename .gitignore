@@ -1,6 +1,8 @@
+
+# Out dir is custom to your own scripts.
+out/
+
+# Stupid directories from IDE, python, notebooks
 **/.idea
-**/out
-
 **/.ipynb_checkpoints
-
 **/__pycache__
