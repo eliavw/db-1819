@@ -1,0 +1,150 @@
+teamID,tname,yearID,W
+SEA,Seattle Mariners,2001,116
+CHN,Chicago Cubs,1906,116
+NYA,New York Yankees,1998,114
+CLE,Cleveland Indians,1954,111
+PIT,Pittsburgh Pirates,1909,110
+BAL,Baltimore Orioles,1969,109
+NYN,New York Mets,1986,108
+CIN,Cincinnati Reds,1975,108
+PHA,Philadelphia Athletics,1931,107
+SLN,St. Louis Cardinals,1942,106
+NY1,New York Giants,1904,106
+ATL,Atlanta Braves,1998,106
+BRO,Brooklyn Dodgers,1953,105
+BOS,Boston Red Sox,1912,105
+OAK,Oakland Athletics,1988,104
+DET,Detroit Tigers,1984,104
+SFN,San Francisco Giants,1993,103
+PHI,Philadelphia Phillies,2011,102
+MIN,Minnesota Twins,1965,102
+LAN,Los Angeles Dodgers,1974,102
+KCA,Kansas City Royals,1977,102
+HOU,Houston Astros,1998,102
+BSN,Boston Beaneaters,1898,102
+LAA,Los Angeles Angels of Anaheim,2008,100
+CHA,Chicago White Sox,1917,100
+ARI,Arizona Diamondbacks,1999,100
+WS1,Washington Senators,1933,99
+TOR,Toronto Blue Jays,1985,99
+ANA,Anaheim Angels,2002,99
+WAS,Washington Nationals,2012,98
+SDN,San Diego Padres,1998,98
+TBA,Tampa Bay Rays,2008,97
+TEX,Texas Rangers,2011,96
+MIL,Milwaukee Brewers,2011,96
+BLN,Baltimore Orioles,1898,96
+SL4,St. Louis Browns,1887,95
+MON,Montreal Expos,1979,95
+ML4,Milwaukee Brewers,1982,95
+ML1,Milwaukee Braves,1957,95
+SLU,St. Louis Maroons,1884,94
+SLA,St. Louis Browns,1922,93
+CL4,Cleveland Spiders,1892,93
+CAL,California Angels,1982,93
+BS2,Boston Reds,1891,93
+BR3,Brooklyn Bridegrooms,1889,93
+FLO,Florida Marlins,1997,92
+COL,Colorado Rockies,2009,92
+LS2,Louisville Colonels,1890,88
+IND,Indianapolis Hoosiers,1914,88
+SLF,St. Louis Terriers,1915,87
+DTN,Detroit Wolverines,1886,87
+CHF,Chicago Chi-Feds,1914,87
+WS2,Washington Senators,1969,86
+PTF,Pittsburgh Rebels,1915,86
+PRO,Providence Grays,1884,84
+BLF,Baltimore Terrapins,1914,84
+PH4,Philadelphia Athletics,1888,81
+KCF,Kansas City Packers,1915,81
+CN2,Cincinnati Red Stockings,1887,81
+BSP,Boston Reds,1890,81
+PT1,Pittsburg Alleghenys,1886,80
+NEW,Newark Pepper,1915,80
+BUF,Buffalo Buffeds,1914,80
+MIA,Miami Marlins,2016,79
+CL6,Columbus Solons,1890,79
+BRF,Brooklyn Tip-Tops,1914,77
+BL2,Baltimore Orioles,1887,77
+BRP,Brooklyn Ward's Wonders,1890,76
+NY4,New York Metropolitans,1884,75
+LS3,Louisville Colonels,1899,75
+CHP,Chicago Pirates,1890,75
+NYP,New York Giants,1890,74
+KC1,Kansas City Athletics,1966,74
+BS1,Boston Red Stockings,1875,71
+BL3,Baltimore Orioles,1891,71
+CNU,Cincinnati Outlaw Reds,1884,69
+CL5,Columbus Buckeyes,1884,69
+TL2,Toledo Maumees,1890,68
+PHP,Philadelphia Athletics,1890,68
+BLA,Baltimore Orioles,1901,68
+SE1,Seattle Pilots,1969,64
+BFN,Buffalo Bisons,1884,64
+RC2,Rochester Broncos,1890,63
+PTP,Pittsburgh Burghers,1890,60
+IN3,Indianapolis Hoosiers,1889,59
+BSU,Boston Reds,1884,58
+BLU,Baltimore Monumentals,1884,58
+SR2,Syracuse Stars,1890,55
+KC2,Kansas City Cowboys,1889,55
+CLP,Cleveland Infants,1890,55
+CL2,Cleveland Blues,1883,55
+HR1,Hartford Dark Blues,1875,54
+PH1,Philadelphia Athletics,1875,53
+CL3,Cleveland Blues,1888,50
+WS8,Washington Nationals,1888,48
+MLA,Milwaukee Brewers,1901,48
+WSU,Washington Nationals,1884,47
+HAR,Hartford Dark Blues,1876,47
+TL1,Toledo Blue Stockings,1884,46
+SL3,St. Louis Brown Stockings,1876,45
+WS9,Washington Statesmen,1891,44
+SL5,St. Louis Maroons,1886,43
+CN3,Cincinnati Kelly's Killers,1891,43
+CN1,Cincinnati Reds,1879,43
+NY2,New York Mutuals,1874,42
+TRN,Troy Trojans,1880,41
+CHU,Chicago/Pittsburgh (Union League),1884,41
+WOR,Worcester Ruby Legs,1880,40
+SL2,St. Louis Brown Stockings,1875,39
+PH2,Philadelphia Whites,1875,37
+BFP,Buffalo Bisons,1890,36
+LS1,Louisville Grays,1877,35
+BL1,Baltimore Canaries,1872,35
+KCN,Kansas City Cowboys,1886,30
+CH2,Chicago White Stockings,1875,30
+IN2,Indianapolis Hoosiers,1884,29
+BR4,Brooklyn Gladiators,1890,26
+IN1,Indianapolis Blues,1878,24
+SR1,Syracuse Stars,1879,22
+BR2,Brooklyn Atlantics,1874,22
+PHU,Philadelphia Keystones,1884,21
+NY3,New York Mutuals,1876,21
+ML3,Milwaukee Brewers,1891,21
+CH1,Chicago White Stockings,1871,19
+KCU,Kansas City Cowboys,1884,16
+WS3,Washington Olympics,1871,15
+TRO,Troy Haymakers,1872,15
+ML2,Milwaukee Grays,1878,15
+PHN,Philadelphia Athletics,1876,14
+WS7,Washington Nationals,1884,12
+RIC,Richmond Virginians,1884,12
+CL1,Cleveland Forest Citys,1871,10
+WS5,Washington Blue Legs,1873,8
+MLU,Milwaukee Brewers,1884,8
+NH1,New Haven Elm Citys,1875,7
+FW1,Fort Wayne Kekiongas,1871,7
+ALT,Altoona Mountain City,1884,6
+WS6,Washington Nationals,1875,5
+MID,Middletown Mansfields,1872,5
+SL1,St. Louis Red Stockings,1875,4
+RC1,Rockford Forest Citys,1871,4
+BR1,Brooklyn Eckfords,1872,3
+WIL,Wilmington Quicksteps,1884,2
+SPU,St. Paul White Caps,1884,2
+PH3,Philadelphia Centennials,1875,2
+ELI,Elizabeth Resolutes,1873,2
+KEO,Keokuk Westerns,1875,1
+WS4,Washington Nationals,1872,0
+BL4,Baltimore Marylands,1873,0

@@ -15,8 +15,8 @@
  ],
  "query_04": [
   {
-   "league_l": "PL",
-   "jaar_x": 1820,
+   "league_l": "mlb",
+   "jaar_x": 1980,
    "jaar_y": 1990
   }
  ],
@@ -28,12 +28,8 @@
  ],
  "query_07": [
   {
-   "jaar_y":    1991,
-   "manager_x": "larusto01"
-  },
-  {
-   "jaar_y":    2005,
-   "manager_x": "torrejo01"
+   "jaar_y":    1980,
+   "manager_x": "joske"
   }
  ],
  "query_08": [
@@ -44,10 +40,7 @@
  ],
  "query_10": [
   {
-   "jaar_y": 2012
-  },
-  {
-   "jaar_y": 1969
+   "jaar_y": 1990
   }
  ]
 }
