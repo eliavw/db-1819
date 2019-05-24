@@ -89,7 +89,7 @@ def query_04(connection, column_names, league_l="mlb", jaar_x=1980, jaar_y=1990)
                                 t2.yearID < {})
     ORDER BY teamID ASC, yearID ASC;
     """.format(
-        league_l, jaar_x, jaar_y
+        league_l, jaar_y, jaar_x
     )
 
     # Stap 2 & 3
@@ -124,7 +124,7 @@ def query_04_v02(connection, column_names, league_l="mlb", jaar_x=1980, jaar_y=1
 
     ORDER BY teamID ASC, yearID ASC;
     """.format(
-        league_l, jaar_x, jaar_y
+        league_l, jaar_y, jaar_x
     )
 
     # Stap 2 & 3

@@ -15,9 +15,14 @@
  ],
  "query_04": [
   {
-   "league_l": "PL",
-   "jaar_x": 1820,
-   "jaar_y": 1990
+   "league_l": "NL",
+   "jaar_x": 1995,
+   "jaar_y": 2008
+  }, 
+  {
+   "league_l": "AL",
+   "jaar_x": 1998,
+   "jaar_y": 1991
   }
  ],
  "query_05": [

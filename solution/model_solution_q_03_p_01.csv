@@ -11,7 +11,9 @@ A. J.,Hinch,Arizona Diamondbacks
 Kirk,Gibson,Arizona Diamondbacks
 Alan,Trammell,Arizona Diamondbacks
 Al,Pedrique,Arizona Diamondbacks
-Eddie,Mathews,Atlanta Braves
+Bobby,Bragan,Atlanta Braves
+Billy,Hitchcock,Atlanta Braves
+Ken,Silvestri,Atlanta Braves
 Connie,Ryan,Atlanta Braves
 Dave,Bristol,Atlanta Braves
 Bobby,Cox,Atlanta Braves
@@ -19,6 +21,7 @@ Lum,Harris,Atlanta Braves
 Clyde,King,Atlanta Braves
 Ted,Turner,Atlanta Braves
 Vern,Benson,Atlanta Braves
+Eddie,Mathews,Atlanta Braves
 Chuck,Tanner,Atlanta Braves
 Eddie,Haas,Atlanta Braves
 Joe,Torre,Atlanta Braves
@@ -26,10 +29,13 @@ Bobby,Wine,Atlanta Braves
 Russ,Nixon,Atlanta Braves
 Brian,Snitker,Atlanta Braves
 Fredi,Gonzalez,Atlanta Braves
-Bobby,Bragan,Atlanta Braves
-Billy,Hitchcock,Atlanta Braves
-Ken,Silvestri,Atlanta Braves
 Bill,Henderson,Baltimore Monumentals
+Jimmy,Dykes,Baltimore Orioles
+Lum,Harris,Baltimore Orioles
+Hank,Bauer,Baltimore Orioles
+Earl,Weaver,Baltimore Orioles
+Paul,Richards,Baltimore Orioles
+Billy,Hitchcock,Baltimore Orioles
 Cal,Ripken,Baltimore Orioles
 Frank,Robinson,Baltimore Orioles
 Joe,Altobelli,Baltimore Orioles
@@ -39,23 +45,17 @@ Johnny,Oates,Baltimore Orioles
 Ray,Miller,Baltimore Orioles
 Phil,Regan,Baltimore Orioles
 Sam,Perlozzo,Baltimore Orioles
-John,Waltz,Baltimore Orioles
 Juan,Samuel,Baltimore Orioles
-Ned,Hanlon,Baltimore Orioles
 Buck,Showalter,Baltimore Orioles
 Dave,Trembley,Baltimore Orioles
-Billy,Barnie,Baltimore Orioles
 Lee,Mazzilli,Baltimore Orioles
-Jimmy,Dykes,Baltimore Orioles
-Lum,Harris,Baltimore Orioles
-Hank,Bauer,Baltimore Orioles
-Earl,Weaver,Baltimore Orioles
-Paul,Richards,Baltimore Orioles
-Billy,Hitchcock,Baltimore Orioles
+John,Waltz,Baltimore Orioles
+Ned,Hanlon,Baltimore Orioles
+Billy,Barnie,Baltimore Orioles
 George,Huff,Boston Americans
-Frank,Selee,Boston Beaneaters
-Jim,Hart,Boston Beaneaters
 Al,Buckenberger,Boston Beaneaters
+Jim,Hart,Boston Beaneaters
+Frank,Selee,Boston Beaneaters
 Casey,Stengel,Boston Bees
 Bill,McKechnie,Boston Bees
 Jack,Slattery,Boston Braves
@@ -71,21 +71,6 @@ Judge,Fuchs,Boston Braves
 Johnny,Cooney,Boston Braves
 Del,Bissonette,Boston Braves
 Harry,Wright,Boston Red Caps
-Don,Zimmer,Boston Red Sox
-Eddie,Kasko,Boston Red Sox
-Darrell,Johnson,Boston Red Sox
-Eddie,Popowski,Boston Red Sox
-Ralph,Houk,Boston Red Sox
-John,McNamara,Boston Red Sox
-Joe,Morgan,Boston Red Sox
-Butch,Hobson,Boston Red Sox
-Joe,Kerrigan,Boston Red Sox
-Jimy,Williams,Boston Red Sox
-Kevin,Kennedy,Boston Red Sox
-Grady,Little,Boston Red Sox
-Bobby,Valentine,Boston Red Sox
-John,Farrell,Boston Red Sox
-Terry,Francona,Boston Red Sox
 Frank,Chance,Boston Red Sox
 Lee,Fohl,Boston Red Sox
 Fred,Lake,Boston Red Sox
@@ -108,10 +93,25 @@ Billy,Jurges,Boston Red Sox
 Del,Baker,Boston Red Sox
 Pinky,Higgins,Boston Red Sox
 Pete,Runnels,Boston Red Sox
+Don,Zimmer,Boston Red Sox
+Eddie,Kasko,Boston Red Sox
+Darrell,Johnson,Boston Red Sox
+Eddie,Popowski,Boston Red Sox
+Ralph,Houk,Boston Red Sox
+John,McNamara,Boston Red Sox
+Joe,Morgan,Boston Red Sox
+Butch,Hobson,Boston Red Sox
+Joe,Kerrigan,Boston Red Sox
+Jimy,Williams,Boston Red Sox
+Kevin,Kennedy,Boston Red Sox
+Grady,Little,Boston Red Sox
+Bobby,Valentine,Boston Red Sox
+John,Farrell,Boston Red Sox
+Terry,Francona,Boston Red Sox
 George,Taylor,Brooklyn Atlantics
-Bill,McGunnigle,Brooklyn Bridegrooms
 Billy,Barnie,Brooklyn Bridegrooms
 Charlie,Ebbets,Brooklyn Bridegrooms
+Bill,McGunnigle,Brooklyn Bridegrooms
 Bill,Dahlen,Brooklyn Dodgers
 Chuck,Dressen,Brooklyn Dodgers
 Max,Carey,Brooklyn Dodgers
@@ -132,6 +132,7 @@ Bill,Dahlen,Brooklyn Superbas
 John,Ganzel,Brooklyn Tip-Tops
 Jack,Chapman,Buffalo Bisons
 Larry,Schlafly,Buffalo Blues
+Bill,Rigney,California Angels
 Norm,Sherry,California Angels
 Jim,Fregosi,California Angels
 Bobby,Winkles,California Angels
@@ -149,33 +150,6 @@ John,Wathan,California Angels
 Joe,Maddon,California Angels
 Buck,Rodgers,California Angels
 Marcel,Lachemann,California Angels
-Bill,Rigney,California Angels
-Whitey,Lockman,Chicago Cubs
-Jim,Marshall,Chicago Cubs
-Herman,Franks,Chicago Cubs
-Don,Zimmer,Chicago Cubs
-Preston,Gomez,Chicago Cubs
-Charlie,Fox,Chicago Cubs
-John,Vukovich,Chicago Cubs
-Gene,Michael,Chicago Cubs
-Jim,Frey,Chicago Cubs
-Frank,Lucchesi,Chicago Cubs
-Lee,Elia,Chicago Cubs
-Joey,Amalfitano,Chicago Cubs
-Jim,Riggleman,Chicago Cubs
-Rene,Lachemann,Chicago Cubs
-Bruce,Kimm,Chicago Cubs
-Jim,Lefebvre,Chicago Cubs
-Don,Baylor,Chicago Cubs
-Tom,Trebelhorn,Chicago Cubs
-Joe,Altobelli,Chicago Cubs
-Jim,Essian,Chicago Cubs
-Joe,Maddon,Chicago Cubs
-Dale,Sveum,Chicago Cubs
-Dusty,Baker,Chicago Cubs
-Mike,Quade,Chicago Cubs
-Lou,Piniella,Chicago Cubs
-Rich,Renteria,Chicago Cubs
 Fred,Mitchell,Chicago Cubs
 George,Gibson,Chicago Cubs
 Joe,McCarthy,Chicago Cubs
@@ -197,9 +171,53 @@ El,Tappe,Chicago Cubs
 Stan,Hack,Chicago Cubs
 Lou,Klein,Chicago Cubs
 Charlie,Metro,Chicago Cubs
+Whitey,Lockman,Chicago Cubs
+Jim,Marshall,Chicago Cubs
+Herman,Franks,Chicago Cubs
+Preston,Gomez,Chicago Cubs
+Charlie,Fox,Chicago Cubs
+John,Vukovich,Chicago Cubs
+Gene,Michael,Chicago Cubs
+Jim,Frey,Chicago Cubs
+Frank,Lucchesi,Chicago Cubs
+Lee,Elia,Chicago Cubs
+Joey,Amalfitano,Chicago Cubs
+Don,Zimmer,Chicago Cubs
+Rene,Lachemann,Chicago Cubs
+Bruce,Kimm,Chicago Cubs
+Jim,Lefebvre,Chicago Cubs
+Don,Baylor,Chicago Cubs
+Tom,Trebelhorn,Chicago Cubs
+Joe,Altobelli,Chicago Cubs
+Jim,Essian,Chicago Cubs
+Jim,Riggleman,Chicago Cubs
+Joe,Maddon,Chicago Cubs
+Dale,Sveum,Chicago Cubs
+Dusty,Baker,Chicago Cubs
+Mike,Quade,Chicago Cubs
+Lou,Piniella,Chicago Cubs
+Rich,Renteria,Chicago Cubs
 Tom,Loftus,Chicago Orphans
 Frank,Selee,Chicago Orphans
 Tom,Burns,Chicago Orphans
+Johnny,Evers,Chicago White Sox
+Ed,Walsh,Chicago White Sox
+Hugh,Duffy,Chicago White Sox
+Lena,Blackburne,Chicago White Sox
+Kid,Gleason,Chicago White Sox
+Jimmy,Callahan,Chicago White Sox
+Pants,Rowland,Chicago White Sox
+Paul,Richards,Chicago White Sox
+Ted,Lyons,Chicago White Sox
+Jimmy,Dykes,Chicago White Sox
+Lew,Fonseca,Chicago White Sox
+Marty,Marion,Chicago White Sox
+Jack,Onslow,Chicago White Sox
+Donie,Bush,Chicago White Sox
+Red,Corriden,Chicago White Sox
+Al,Lopez,Chicago White Sox
+Les,Moss,Chicago White Sox
+Eddie,Stanky,Chicago White Sox
 Larry,Doby,Chicago White Sox
 Bill,Adair,Chicago White Sox
 Chuck,Tanner,Chicago White Sox
@@ -215,50 +233,14 @@ Terry,Bevington,Chicago White Sox
 Robin,Ventura,Chicago White Sox
 Don,Cooper,Chicago White Sox
 Ozzie,Guillen,Chicago White Sox
-Johnny,Evers,Chicago White Sox
-Ed,Walsh,Chicago White Sox
-Hugh,Duffy,Chicago White Sox
-Lena,Blackburne,Chicago White Sox
-Kid,Gleason,Chicago White Sox
-Jimmy,Callahan,Chicago White Sox
-Pants,Rowland,Chicago White Sox
-Red,Corriden,Chicago White Sox
-Paul,Richards,Chicago White Sox
-Ted,Lyons,Chicago White Sox
-Jimmy,Dykes,Chicago White Sox
-Lew,Fonseca,Chicago White Sox
-Marty,Marion,Chicago White Sox
-Jack,Onslow,Chicago White Sox
-Donie,Bush,Chicago White Sox
-Al,Lopez,Chicago White Sox
-Les,Moss,Chicago White Sox
-Eddie,Stanky,Chicago White Sox
 Jimmy,Wood,Chicago White Stockings
 Ed,Hengel,Chicago/Pittsburgh (Union League)
-Gus,Schmelz,Cincinnati Red Stockings
 Ollie,Caylor,Cincinnati Red Stockings
+Gus,Schmelz,Cincinnati Red Stockings
 Jimmy,Dykes,Cincinnati Redlegs
 Birdie,Tebbetts,Cincinnati Redlegs
 Mayo,Smith,Cincinnati Redlegs
 Fred,Hutchinson,Cincinnati Redlegs
-Sparky,Anderson,Cincinnati Reds
-Tommy,Helms,Cincinnati Reds
-Vern,Rapp,Cincinnati Reds
-Lou,Piniella,Cincinnati Reds
-Pete,Rose,Cincinnati Reds
-Russ,Nixon,Cincinnati Reds
-John,McNamara,Cincinnati Reds
-Ray,Knight,Cincinnati Reds
-Tony,Perez,Cincinnati Reds
-Davey,Johnson,Cincinnati Reds
-Jack,McKeon,Cincinnati Reds
-Bob,Boone,Cincinnati Reds
-Tom,Loftus,Cincinnati Reds
-Dusty,Baker,Cincinnati Reds
-Jerry,Narron,Cincinnati Reds
-Dave,Miley,Cincinnati Reds
-Pete,Mackanin,Cincinnati Reds
-Bryan,Price,Cincinnati Reds
 Jack,Hendricks,Cincinnati Reds
 Christy,Mathewson,Cincinnati Reds
 Bid,McPhee,Cincinnati Reds
@@ -285,28 +267,29 @@ Fred,Hutchinson,Cincinnati Reds
 Don,Heffner,Cincinnati Reds
 Dave,Bristol,Cincinnati Reds
 Dick,Sisler,Cincinnati Reds
-Jimmy,Williams,Cleveland Blues
-Charlie,Hackett,Cleveland Blues
+Sparky,Anderson,Cincinnati Reds
+Tommy,Helms,Cincinnati Reds
+Vern,Rapp,Cincinnati Reds
+Lou,Piniella,Cincinnati Reds
+Pete,Rose,Cincinnati Reds
+Russ,Nixon,Cincinnati Reds
+John,McNamara,Cincinnati Reds
+Ray,Knight,Cincinnati Reds
+Tony,Perez,Cincinnati Reds
+Davey,Johnson,Cincinnati Reds
+Jack,McKeon,Cincinnati Reds
+Bob,Boone,Cincinnati Reds
+Dusty,Baker,Cincinnati Reds
+Jerry,Narron,Cincinnati Reds
+Dave,Miley,Cincinnati Reds
+Pete,Mackanin,Cincinnati Reds
+Bryan,Price,Cincinnati Reds
+Tom,Loftus,Cincinnati Reds
 Tom,Loftus,Cleveland Blues
 Frank,Bancroft,Cleveland Blues
+Jimmy,Williams,Cleveland Blues
+Charlie,Hackett,Cleveland Blues
 Bill,Armour,Cleveland Bronchos
-Frank,Robinson,Cleveland Indians
-Jeff,Torborg,Cleveland Indians
-Johnny,Lipon,Cleveland Indians
-Ken,Aspromonte,Cleveland Indians
-Mike,Ferraro,Cleveland Indians
-Pat,Corrales,Cleveland Indians
-John,Hart,Cleveland Indians
-John,McNamara,Cleveland Indians
-Doc,Edwards,Cleveland Indians
-Dave,Garcia,Cleveland Indians
-Charlie,Manuel,Cleveland Indians
-Eric,Wedge,Cleveland Indians
-Mike,Hargrove,Cleveland Indians
-Joel,Skinner,Cleveland Indians
-Sandy,Alomar,Cleveland Indians
-Terry,Francona,Cleveland Indians
-Manny,Acta,Cleveland Indians
 Jack,McCallister,Cleveland Indians
 Roger,Peckinpaugh,Cleveland Indians
 Joe,Birmingham,Cleveland Indians
@@ -327,11 +310,28 @@ Al,Dark,Cleveland Indians
 Jo-Jo,White,Cleveland Indians
 Mel,McGaha,Cleveland Indians
 Jimmy,Dykes,Cleveland Indians
+Frank,Robinson,Cleveland Indians
+Jeff,Torborg,Cleveland Indians
+Johnny,Lipon,Cleveland Indians
+Ken,Aspromonte,Cleveland Indians
+Mike,Ferraro,Cleveland Indians
+Pat,Corrales,Cleveland Indians
+John,Hart,Cleveland Indians
+John,McNamara,Cleveland Indians
+Doc,Edwards,Cleveland Indians
+Dave,Garcia,Cleveland Indians
+Charlie,Manuel,Cleveland Indians
+Eric,Wedge,Cleveland Indians
+Mike,Hargrove,Cleveland Indians
+Joel,Skinner,Cleveland Indians
+Sandy,Alomar,Cleveland Indians
+Terry,Francona,Cleveland Indians
+Manny,Acta,Cleveland Indians
 Deacon,McGuire,Cleveland Naps
 Bill,Armour,Cleveland Naps
+Tom,Loftus,Cleveland Spiders
 Gus,Schmelz,Cleveland Spiders
 Bob,Leadley,Cleveland Spiders
-Tom,Loftus,Cleveland Spiders
 Jim,Leyland,Colorado Rockies
 Clint,Hurdle,Colorado Rockies
 Buddy,Bell,Colorado Rockies
@@ -343,6 +343,29 @@ Gus,Schmelz,Columbus Buckeyes
 Al,Buckenberger,Columbus Solons
 Gus,Schmelz,Columbus Solons
 Pat,Sullivan,Columbus Solons
+Hughie,Jennings,Detroit Tigers
+George,Stallings,Detroit Tigers
+George,Moriarty,Detroit Tigers
+Frank,Dwyer,Detroit Tigers
+Ed,Barrow,Detroit Tigers
+Bill,Armour,Detroit Tigers
+Del,Baker,Detroit Tigers
+Steve,O'Neill,Detroit Tigers
+Cy,Perkins,Detroit Tigers
+Red,Rolfe,Detroit Tigers
+Bucky,Harris,Detroit Tigers
+Mickey,Cochrane,Detroit Tigers
+Chuck,Dressen,Detroit Tigers
+Jack,Tighe,Detroit Tigers
+Mayo,Smith,Detroit Tigers
+Bob,Scheffing,Detroit Tigers
+Bill,Norman,Detroit Tigers
+Bob,Swift,Detroit Tigers
+Fred,Hutchinson,Detroit Tigers
+Jimmy,Dykes,Detroit Tigers
+Billy,Hitchcock,Detroit Tigers
+Joe,Gordon,Detroit Tigers
+Frank,Skaff,Detroit Tigers
 Joe,Schultz,Detroit Tigers
 Ralph,Houk,Detroit Tigers
 Billy,Martin,Detroit Tigers
@@ -356,29 +379,6 @@ Larry,Parrish,Detroit Tigers
 Luis,Pujols,Detroit Tigers
 Jim,Leyland,Detroit Tigers
 Brad,Ausmus,Detroit Tigers
-Hughie,Jennings,Detroit Tigers
-George,Stallings,Detroit Tigers
-George,Moriarty,Detroit Tigers
-Frank,Dwyer,Detroit Tigers
-Ed,Barrow,Detroit Tigers
-Bill,Armour,Detroit Tigers
-Mickey,Cochrane,Detroit Tigers
-Del,Baker,Detroit Tigers
-Steve,O'Neill,Detroit Tigers
-Cy,Perkins,Detroit Tigers
-Red,Rolfe,Detroit Tigers
-Bucky,Harris,Detroit Tigers
-Chuck,Dressen,Detroit Tigers
-Jack,Tighe,Detroit Tigers
-Mayo,Smith,Detroit Tigers
-Bob,Scheffing,Detroit Tigers
-Bill,Norman,Detroit Tigers
-Bob,Swift,Detroit Tigers
-Fred,Hutchinson,Detroit Tigers
-Jimmy,Dykes,Detroit Tigers
-Billy,Hitchcock,Detroit Tigers
-Joe,Gordon,Detroit Tigers
-Frank,Skaff,Detroit Tigers
 Frank,Bancroft,Detroit Wolverines
 Bob,Leadley,Detroit Wolverines
 Jack,Chapman,Detroit Wolverines
@@ -395,6 +395,8 @@ Jack,McKeon,Florida Marlins
 Edwin,Rodriguez,Florida Marlins
 Fredi,Gonzalez,Florida Marlins
 Brandon,Hyde,Florida Marlins
+Grady,Hatton,Houston Astros
+Lum,Harris,Houston Astros
 Salty,Parker,Houston Astros
 Bill,Virdon,Houston Astros
 Leo,Durocher,Houston Astros
@@ -415,19 +417,15 @@ Cecil,Cooper,Houston Astros
 Tom,Lawless,Houston Astros
 A. J.,Hinch,Houston Astros
 Phil,Garner,Houston Astros
-Grady,Hatton,Houston Astros
-Lum,Harris,Houston Astros
 Lum,Harris,Houston Colt .45's
 Harry,Craft,Houston Colt .45's
-Watch,Burnham,Indianapolis Hoosiers
-Fred,Thomas,Indianapolis Hoosiers
-Horace,Fogel,Indianapolis Hoosiers
+Bill,Phillips,Indianapolis Hoosiers
 Harry,Spence,Indianapolis Hoosiers
 Frank,Bancroft,Indianapolis Hoosiers
 Jim,Gifford,Indianapolis Hoosiers
-Bill,Phillips,Indianapolis Hoosiers
-Bob,Elliott,Kansas City Athletics
-Al,Dark,Kansas City Athletics
+Watch,Burnham,Indianapolis Hoosiers
+Fred,Thomas,Indianapolis Hoosiers
+Horace,Fogel,Indianapolis Hoosiers
 Eddie,Lopat,Kansas City Athletics
 Harry,Craft,Kansas City Athletics
 Luke,Appling,Kansas City Athletics
@@ -436,45 +434,47 @@ Mel,McGaha,Kansas City Athletics
 Haywood,Sullivan,Kansas City Athletics
 Lou,Boudreau,Kansas City Athletics
 Hank,Bauer,Kansas City Athletics
+Bob,Elliott,Kansas City Athletics
+Al,Dark,Kansas City Athletics
 Bill,Watkins,Kansas City Cowboys
-Joe,Gordon,Kansas City Royals
 Jack,McKeon,Kansas City Royals
 Charlie,Metro,Kansas City Royals
 Bob,Lemon,Kansas City Royals
 Whitey,Herzog,Kansas City Royals
-Mike,Ferraro,Kansas City Royals
+Joe,Gordon,Kansas City Royals
 Dick,Howser,Kansas City Royals
 Billy,Gardner,Kansas City Royals
 John,Wathan,Kansas City Royals
 Jim,Frey,Kansas City Royals
-John,Mizerock,Kansas City Royals
+Mike,Ferraro,Kansas City Royals
 Tony,Pena,Kansas City Royals
 Tony,Muser,Kansas City Royals
 Bob,Schaefer,Kansas City Royals
 Hal,McRae,Kansas City Royals
 Bob,Boone,Kansas City Royals
+John,Mizerock,Kansas City Royals
 Buddy,Bell,Kansas City Royals
 Ned,Yost,Kansas City Royals
 Trey,Hillman,Kansas City Royals
 Bill,Rigney,Los Angeles Angels
 Mike,Scioscia,Los Angeles Angels of Anaheim
+Walter,Alston,Los Angeles Dodgers
 Tom,Lasorda,Los Angeles Dodgers
-Glenn,Hoffman,Los Angeles Dodgers
 Davey,Johnson,Los Angeles Dodgers
 Bill,Russell,Los Angeles Dodgers
 Jim,Tracy,Los Angeles Dodgers
+Glenn,Hoffman,Los Angeles Dodgers
 Don,Mattingly,Los Angeles Dodgers
 Joe,Torre,Los Angeles Dodgers
 Dave,Roberts,Los Angeles Dodgers
 Grady,Little,Los Angeles Dodgers
-Walter,Alston,Los Angeles Dodgers
-John,Kelly,Louisville Colonels
+Bill,McGunnigle,Louisville Colonels
 Mordecai,Davidson,Louisville Colonels
 Billy,Barnie,Louisville Colonels
 Jack,Chapman,Louisville Colonels
 Jim,Hart,Louisville Colonels
 John,McCloskey,Louisville Colonels
-Bill,McGunnigle,Louisville Colonels
+John,Kelly,Louisville Colonels
 Mike,Walsh,Louisville Eclipse
 Jack,Chapman,Louisville Grays
 Dan,Jennings,Miami Marlins
@@ -502,24 +502,24 @@ Davey,Lopes,Milwaukee Brewers
 Ron,Roenicke,Milwaukee Brewers
 Dale,Sveum,Milwaukee Brewers
 Craig,Counsell,Milwaukee Brewers
-Charlie,Cushman,Milwaukee Brewers
-Tom,Loftus,Milwaukee Brewers
 Ken,Macha,Milwaukee Brewers
 Ned,Yost,Milwaukee Brewers
+Tom,Loftus,Milwaukee Brewers
+Charlie,Cushman,Milwaukee Brewers
 Jack,Chapman,Milwaukee Grays
+Cal,Ermer,Minnesota Twins
+Cookie,Lavagetto,Minnesota Twins
+Sam,Mele,Minnesota Twins
 Billy,Martin,Minnesota Twins
 Gene,Mauch,Minnesota Twins
 Bill,Rigney,Minnesota Twins
 Frank,Quilici,Minnesota Twins
-Johnny,Goryl,Minnesota Twins
 Tom,Kelly,Minnesota Twins
 Billy,Gardner,Minnesota Twins
 Ray,Miller,Minnesota Twins
+Johnny,Goryl,Minnesota Twins
 Ron,Gardenhire,Minnesota Twins
 Paul,Molitor,Minnesota Twins
-Cal,Ermer,Minnesota Twins
-Cookie,Lavagetto,Minnesota Twins
-Sam,Mele,Minnesota Twins
 Dick,Williams,Montreal Expos
 Gene,Mauch,Montreal Expos
 Karl,Kuehl,Montreal Expos
@@ -531,10 +531,6 @@ Felipe,Alou,Montreal Expos
 Frank,Robinson,Montreal Expos
 Jeff,Torborg,Montreal Expos
 Tom,Runnells,Montreal Expos
-Pat,Powers,New York Giants
-Harvey,Watkins,New York Giants
-Jim,Mutrie,New York Giants
-Cap,Anson,New York Giants
 John,McGraw,New York Giants
 John,Day,New York Giants
 Fred,Hoey,New York Giants
@@ -542,17 +538,24 @@ Hughie,Jennings,New York Giants
 Buck,Ewing,New York Giants
 Horace,Fogel,New York Giants
 Arthur,Irwin,New York Giants
+Cap,Anson,New York Giants
 Mel,Ott,New York Giants
 Leo,Durocher,New York Giants
 Bill,Terry,New York Giants
 Bill,Rigney,New York Giants
+Pat,Powers,New York Giants
+Harvey,Watkins,New York Giants
+Jim,Mutrie,New York Giants
 Jim,Price,New York Gothams
 Clark,Griffith,New York Highlanders
 George,Stallings,New York Highlanders
-Ollie,Caylor,New York Metropolitans
 Jim,Mutrie,New York Metropolitans
 Jim,Gifford,New York Metropolitans
 Bob,Ferguson,New York Metropolitans
+Ollie,Caylor,New York Metropolitans
+Casey,Stengel,New York Mets
+Salty,Parker,New York Mets
+Wes,Westrum,New York Mets
 Roy,McMillan,New York Mets
 Yogi,Berra,New York Mets
 Joe,Torre,New York Mets
@@ -570,14 +573,22 @@ Terry,Collins,New York Mets
 Jerry,Manuel,New York Mets
 Willie,Randolph,New York Mets
 Art,Howe,New York Mets
-Casey,Stengel,New York Mets
-Salty,Parker,New York Mets
-Wes,Westrum,New York Mets
 Bill,Craver,New York Mutuals
-Billy,Martin,New York Yankees
+Bill,Donovan,New York Yankees
+Miller,Huggins,New York Yankees
+Joe,McCarthy,New York Yankees
+Bucky,Harris,New York Yankees
+Art,Fletcher,New York Yankees
+Casey,Stengel,New York Yankees
+Johnny,Neun,New York Yankees
+Bob,Shawkey,New York Yankees
+Yogi,Berra,New York Yankees
+Ralph,Houk,New York Yankees
+Johnny,Keane,New York Yankees
 Dick,Howser,New York Yankees
 Bob,Lemon,New York Yankees
 Bill,Virdon,New York Yankees
+Billy,Martin,New York Yankees
 Lou,Piniella,New York Yankees
 Dallas,Green,New York Yankees
 Bucky,Dent,New York Yankees
@@ -587,17 +598,6 @@ Clyde,King,New York Yankees
 Buck,Showalter,New York Yankees
 Joe,Torre,New York Yankees
 Joe,Girardi,New York Yankees
-Bill,Donovan,New York Yankees
-Miller,Huggins,New York Yankees
-Bob,Shawkey,New York Yankees
-Joe,McCarthy,New York Yankees
-Bucky,Harris,New York Yankees
-Art,Fletcher,New York Yankees
-Casey,Stengel,New York Yankees
-Johnny,Neun,New York Yankees
-Yogi,Berra,New York Yankees
-Ralph,Houk,New York Yankees
-Johnny,Keane,New York Yankees
 Bill,Phillips,Newark Pepper
 Hank,Bauer,Oakland Athletics
 John,McNamara,Oakland Athletics
@@ -617,44 +617,23 @@ Art,Howe,Oakland Athletics
 Ken,Macha,Oakland Athletics
 Bob,Geren,Oakland Athletics
 Bob,Melvin,Oakland Athletics
-Al,Wright,Philadelphia Athletics
-Frank,Bancroft,Philadelphia Athletics
-Charlie,Mason,Philadelphia Athletics
-Lew,Simmons,Philadelphia Athletics
-Bill,Sharsig,Philadelphia Athletics
 Connie,Mack,Philadelphia Athletics
 Jimmy,Dykes,Philadelphia Athletics
 Earle,Mack,Philadelphia Athletics
+Lew,Simmons,Philadelphia Athletics
+Bill,Sharsig,Philadelphia Athletics
+Al,Wright,Philadelphia Athletics
+Frank,Bancroft,Philadelphia Athletics
+Charlie,Mason,Philadelphia Athletics
 Bucky,Harris,Philadelphia Blue Jays
 Freddie,Fitzsimmons,Philadelphia Blue Jays
-Paul,Owens,Philadelphia Phillies
-Danny,Ozark,Philadelphia Phillies
-Frank,Lucchesi,Philadelphia Phillies
-George,Myatt,Philadelphia Phillies
-Bob,Skinner,Philadelphia Phillies
-John,Vukovich,Philadelphia Phillies
-Nick,Leyva,Philadelphia Phillies
-Lee,Elia,Philadelphia Phillies
-John,Felske,Philadelphia Phillies
-Dallas,Green,Philadelphia Phillies
-Pat,Corrales,Philadelphia Phillies
-Jim,Fregosi,Philadelphia Phillies
-Terry,Francona,Philadelphia Phillies
-Larry,Bowa,Philadelphia Phillies
-Gary,Varsho,Philadelphia Phillies
-Harry,Wright,Philadelphia Phillies
-Al,Reach,Philadelphia Phillies
-Pete,Mackanin,Philadelphia Phillies
-Charlie,Manuel,Philadelphia Phillies
-Ryne,Sandberg,Philadelphia Phillies
-Arthur,Irwin,Philadelphia Phillies
-Kaiser,Wilhelm,Philadelphia Phillies
 Bill,Shettsline,Philadelphia Phillies
 Art,Fletcher,Philadelphia Phillies
 Billy,Murray,Philadelphia Phillies
 Pat,Moran,Philadelphia Phillies
 Jack,Coombs,Philadelphia Phillies
 Bill,Donovan,Philadelphia Phillies
+Kaiser,Wilhelm,Philadelphia Phillies
 Hans,Lobert,Philadelphia Phillies
 Doc,Prothro,Philadelphia Phillies
 Ben,Chapman,Philadelphia Phillies
@@ -667,24 +646,32 @@ Andy,Cohen,Philadelphia Phillies
 Gene,Mauch,Philadelphia Phillies
 Terry,Moore,Philadelphia Phillies
 Mayo,Smith,Philadelphia Phillies
+Paul,Owens,Philadelphia Phillies
+Danny,Ozark,Philadelphia Phillies
+Frank,Lucchesi,Philadelphia Phillies
+George,Myatt,Philadelphia Phillies
+Bob,Skinner,Philadelphia Phillies
+John,Vukovich,Philadelphia Phillies
+Nick,Leyva,Philadelphia Phillies
+Lee,Elia,Philadelphia Phillies
+John,Felske,Philadelphia Phillies
+Dallas,Green,Philadelphia Phillies
+Pat,Corrales,Philadelphia Phillies
+Terry,Francona,Philadelphia Phillies
+Larry,Bowa,Philadelphia Phillies
+Jim,Fregosi,Philadelphia Phillies
+Gary,Varsho,Philadelphia Phillies
+Pete,Mackanin,Philadelphia Phillies
+Charlie,Manuel,Philadelphia Phillies
+Ryne,Sandberg,Philadelphia Phillies
+Arthur,Irwin,Philadelphia Phillies
+Harry,Wright,Philadelphia Phillies
+Al,Reach,Philadelphia Phillies
 Harry,Wright,Philadelphia Quakers
 Al,Pratt,Pittsburg Alleghenys
 Ormond,Butler,Pittsburg Alleghenys
 Denny,McKnight,Pittsburg Alleghenys
 Horace,Phillips,Pittsburg Alleghenys
-Chuck,Tanner,Pittsburgh Pirates
-Bill,Virdon,Pittsburgh Pirates
-Alex,Grammas,Pittsburgh Pirates
-Larry,Shepard,Pittsburgh Pirates
-Jim,Leyland,Pittsburgh Pirates
-Gene,Lamont,Pittsburgh Pirates
-Lloyd,McClendon,Pittsburgh Pirates
-Clint,Hurdle,Pittsburgh Pirates
-John,Russell,Pittsburgh Pirates
-Bill,McGunnigle,Pittsburgh Pirates
-Pete,Mackanin,Pittsburgh Pirates
-Al,Buckenberger,Pittsburgh Pirates
-Jim,Tracy,Pittsburgh Pirates
 Bill,McKechnie,Pittsburgh Pirates
 Bill,Watkins,Pittsburgh Pirates
 Jimmy,Callahan,Pittsburgh Pirates
@@ -702,9 +689,22 @@ Jewel,Ens,Pittsburgh Pirates
 Bobby,Bragan,Pittsburgh Pirates
 Danny,Murtaugh,Pittsburgh Pirates
 Harry,Walker,Pittsburgh Pirates
+Chuck,Tanner,Pittsburgh Pirates
+Bill,Virdon,Pittsburgh Pirates
+Alex,Grammas,Pittsburgh Pirates
+Larry,Shepard,Pittsburgh Pirates
+Jim,Leyland,Pittsburgh Pirates
+Gene,Lamont,Pittsburgh Pirates
+Lloyd,McClendon,Pittsburgh Pirates
+Clint,Hurdle,Pittsburgh Pirates
+John,Russell,Pittsburgh Pirates
+Pete,Mackanin,Pittsburgh Pirates
+Jim,Tracy,Pittsburgh Pirates
+Bill,McGunnigle,Pittsburgh Pirates
+Al,Buckenberger,Pittsburgh Pirates
 Doc,Gessler,Pittsburgh Rebels
-Frank,Bancroft,Providence Grays
 Harry,Wright,Providence Grays
+Frank,Bancroft,Providence Grays
 Felix,Moses,Richmond Virginians
 Pat,Powers,Rochester Broncos
 Bob,Skinner,San Diego Padres
@@ -726,6 +726,10 @@ Dave,Roberts,San Diego Padres
 Pat,Murphy,San Diego Padres
 Buddy,Black,San Diego Padres
 Andy,Green,San Diego Padres
+Tom,Sheehan,San Francisco Giants
+Bill,Rigney,San Francisco Giants
+Al,Dark,San Francisco Giants
+Herman,Franks,San Francisco Giants
 Joe,Altobelli,San Francisco Giants
 Clyde,King,San Francisco Giants
 Charlie,Fox,San Francisco Giants
@@ -738,10 +742,6 @@ Dave,Bristol,San Francisco Giants
 Dusty,Baker,San Francisco Giants
 Felipe,Alou,San Francisco Giants
 Bruce,Bochy,San Francisco Giants
-Tom,Sheehan,San Francisco Giants
-Bill,Rigney,San Francisco Giants
-Al,Dark,San Francisco Giants
-Herman,Franks,San Francisco Giants
 Darrell,Johnson,Seattle Mariners
 Maury,Wills,Seattle Mariners
 Del,Crandall,Seattle Mariners
@@ -765,12 +765,6 @@ Eric,Wedge,Seattle Mariners
 Joe,Schultz,Seattle Pilots
 Mase,Graffen,St. Louis Brown Stockings
 George,McManus,St. Louis Brown Stockings
-Jimmy,Williams,St. Louis Browns
-Bill,Watkins,St. Louis Browns
-Doggie,Miller,St. Louis Browns
-Ted,Sullivan,St. Louis Browns
-Al,Buckenberger,St. Louis Browns
-Chris,Von Der Ahe,St. Louis Browns
 Tim,Hurst,St. Louis Browns
 Fielder,Jones,St. Louis Browns
 Dan,Howley,St. Louis Browns
@@ -790,14 +784,12 @@ Fred,Haney,St. Louis Browns
 Allan,Sothoron,St. Louis Browns
 Luke,Sewell,St. Louis Browns
 Zack,Taylor,St. Louis Browns
-Vern,Rapp,St. Louis Cardinals
-Jack,Krol,St. Louis Cardinals
-Whitey,Herzog,St. Louis Cardinals
-Ken,Boyer,St. Louis Cardinals
-Mike,Jorgensen,St. Louis Cardinals
-Tony,LaRussa,St. Louis Cardinals
-Joe,Torre,St. Louis Cardinals
-Mike,Matheny,St. Louis Cardinals
+Bill,Watkins,St. Louis Browns
+Doggie,Miller,St. Louis Browns
+Ted,Sullivan,St. Louis Browns
+Al,Buckenberger,St. Louis Browns
+Chris,Von Der Ahe,St. Louis Browns
+Jimmy,Williams,St. Louis Browns
 Louie,Heilbroner,St. Louis Cardinals
 Miller,Huggins,St. Louis Cardinals
 Jack,Hendricks,St. Louis Cardinals
@@ -818,6 +810,14 @@ Stan,Hack,St. Louis Cardinals
 Eddie,Stanky,St. Louis Cardinals
 Johnny,Keane,St. Louis Cardinals
 Red,Schoendienst,St. Louis Cardinals
+Vern,Rapp,St. Louis Cardinals
+Jack,Krol,St. Louis Cardinals
+Whitey,Herzog,St. Louis Cardinals
+Ken,Boyer,St. Louis Cardinals
+Mike,Jorgensen,St. Louis Cardinals
+Tony,LaRussa,St. Louis Cardinals
+Joe,Torre,St. Louis Cardinals
+Mike,Matheny,St. Louis Cardinals
 Ted,Sullivan,St. Louis Maroons
 Gus,Schmelz,St. Louis Maroons
 Andrew,Thompson,St. Paul White Caps
@@ -866,31 +866,26 @@ John,Gibbons,Toronto Blue Jays
 John,Farrell,Toronto Blue Jays
 Horace,Phillips,Troy Trojans
 Nick,Young,Washington Blue Legs
-Holly,Hollingshead,Washington Nationals
-John,Bickerton,Washington Nationals
 John,McLaren,Washington Nationals
 Davey,Johnson,Washington Nationals
 Frank,Robinson,Washington Nationals
 Jim,Riggleman,Washington Nationals
+Manny,Acta,Washington Nationals
+Matt,Williams,Washington Nationals
+Dusty,Baker,Washington Nationals
 Mike,Scanlon,Washington Nationals
 Walter,Hewett,Washington Nationals
 Ted,Sullivan,Washington Nationals
-Manny,Acta,Washington Nationals
-Matt,Williams,Washington Nationals
 John,Gaffney,Washington Nationals
-Dusty,Baker,Washington Nationals
+Holly,Hollingshead,Washington Nationals
+John,Bickerton,Washington Nationals
 Nick,Young,Washington Olympics
-Ted,Williams,Washington Senators
-Jim,Lemon,Washington Senators
-Billy,Barnie,Washington Senators
-Arthur,Irwin,Washington Senators
-Gus,Schmelz,Washington Senators
-Clark,Griffith,Washington Senators
 Joe,Cantillon,Washington Senators
 Jim,Manning,Washington Senators
 Jimmy,McAleer,Washington Senators
 Tom,Loftus,Washington Senators
 George,McBride,Washington Senators
+Clark,Griffith,Washington Senators
 Joe,Kuhel,Washington Senators
 Bucky,Harris,Washington Senators
 Ossie,Bluege,Washington Senators
@@ -900,6 +895,11 @@ Gil,Hodges,Washington Senators
 Cookie,Lavagetto,Washington Senators
 Mickey,Vernon,Washington Senators
 Chuck,Dressen,Washington Senators
+Ted,Williams,Washington Senators
+Jim,Lemon,Washington Senators
+Billy,Barnie,Washington Senators
+Arthur,Irwin,Washington Senators
+Gus,Schmelz,Washington Senators
 Sam,Trott,Washington Statesmen
 Joe,Simmons,Wilmington Quicksteps
 Frank,Bancroft,Worcester Ruby Legs
